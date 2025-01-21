@@ -20,7 +20,7 @@
       "symbol": "USDT",
       "description": "Tether",
       "decimals": 18,
-      "image": "https://raw.githubusercontent.com/clownwallet/token-list/master/assets/233/0x36AA81a7aEeAB8f09e154d3E779Bb81beA54501A.png",
+      "image": "https://raw.githubusercontent.com/clownwallet/token-list/main/assets/233/0x36AA81a7aEeAB8f09e154d3E779Bb81beA54501A.png",
       "wallet_preload": true
     }
   ]
