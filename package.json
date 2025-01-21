@@ -1,0 +1,19 @@
+{
+  "name": "clownwallet-tokenlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clownwallet/tokenlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clownwallet/tokenlist/issues"
+  },
+  "homepage": "https://github.com/clownwallet/tokenlist#readme"
+}
